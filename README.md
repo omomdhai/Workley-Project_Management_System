@@ -1,4 +1,4 @@
-**Workley Project Management System**
+**Workley - Project Management System**
 
 ---
 
